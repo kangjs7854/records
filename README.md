@@ -9,3 +9,5 @@
 2. [我讨厌dom节点](https://github.com/kangjs7854/records/issues/3)
 4. [mongod.exe闪退](https://github.com/kangjs7854/records/issues/4)
 5. [自定义小程序导航条](https://github.com/kangjs7854/records/issues/5)
+6. [通过demo理解常见的几种即时通讯方法](https://github.com/kangjs7854/im)
+7. [懒人的api开发模板](https://github.com/kangjs7854/node-server-template)
