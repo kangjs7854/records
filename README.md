@@ -12,3 +12,5 @@
 6. [通过demo理解常见的几种即时通讯方法](https://github.com/kangjs7854/im)
 7. [懒人的api开发模板](https://github.com/kangjs7854/node-server-template)
 8. [小程序请求方法的封装](https://github.com/kangjs7854/records/issues/6) 
+9. [讨厌的回调](https://github.com/kangjs7854/records/issues/7) 
+
