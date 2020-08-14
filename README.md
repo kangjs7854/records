@@ -2,7 +2,7 @@
 
 [点击进入](https://github.com/kangjs7854/records/issues)
 
-## 目录
+# 目录
 
 
 1. [如何让Vue中的watch停止观察](https://github.com/kangjs7854/records/issues/1)
@@ -13,4 +13,5 @@
 7. [懒人的api开发模板](https://github.com/kangjs7854/node-server-template)
 8. [小程序请求方法的封装](https://github.com/kangjs7854/records/issues/6) 
 9. [讨厌的回调](https://github.com/kangjs7854/records/issues/7) 
+10. [小程序缓存封装](https://github.com/kangjs7854/records/issues/8) 
 
