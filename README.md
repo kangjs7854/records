@@ -14,4 +14,4 @@
 8. [小程序请求方法的封装](https://github.com/kangjs7854/records/issues/6) 
 9. [讨厌的回调](https://github.com/kangjs7854/records/issues/7) 
 10. [小程序缓存封装](https://github.com/kangjs7854/records/issues/8) 
-
+11. [小程序授权那些事](https://github.com/kangjs7854/records/issues/9)
