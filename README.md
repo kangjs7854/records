@@ -1,9 +1,6 @@
-# 日常工作和学习的记录
+## [records](https://github.com/kangjs7854/records/issues)
 
-[点击进入](https://github.com/kangjs7854/records/issues)
-
-# 目录
-
+## 目录
 
 1. [如何让Vue中的watch停止观察](https://github.com/kangjs7854/records/issues/1)
 2. [我讨厌dom节点](https://github.com/kangjs7854/records/issues/3)
